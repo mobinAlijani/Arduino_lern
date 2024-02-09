@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/mobin/Desktop/ar"
+		},
+		{
+			"name": "led1",
+			"path": "../../../led1"
+		},
+		{
+			"name": "led_analog",
+			"path": "C:/Users/mobin/Documents/PlatformIO/Projects/led_analog"
+		},
+		{
+			"name": "led_analog",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
